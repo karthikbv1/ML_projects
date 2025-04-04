@@ -1,0 +1,17 @@
+Patient Name,COPD Prediction
+NORMAL2-IM-1427-0001,Negative :0.07
+NORMAL2-IM-1430-0001,Negative :0.32
+NORMAL2-IM-1431-0001,Negative :0.47
+NORMAL2-IM-1436-0001,Negative :0.27
+NORMAL2-IM-1437-0001,Positive :0.98
+NORMAL2-IM-1438-0001,Positive :0.98
+NORMAL2-IM-1440-0001,Negative :0.94
+NORMAL2-IM-1442-0001,Negative :0.88
+person1946_bacteria_4874,Positive :1.00
+person1946_bacteria_4875,Positive :1.00
+person1947_bacteria_4876,Positive :1.00
+person1949_bacteria_4880,Negative :0.11
+person1950_bacteria_4881,Positive :1.00
+person1951_bacteria_4882,Positive :1.00
+person1952_bacteria_4883,Positive :0.98
+person1954_bacteria_4886,Positive :1.00
